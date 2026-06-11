@@ -1,2 +1,4 @@
 .env
 .libs_modules.txt
+data
+finalized_data/netflix_subset.csv
