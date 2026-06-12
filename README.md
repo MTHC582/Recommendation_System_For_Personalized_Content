@@ -17,6 +17,8 @@ netflix-recommendation-system/
 │   ├── combined_data_2.txt        # Raw interaction subset from Kaggle
 │   └── movie_titles.csv           # Raw movie metadata catalog
 │
+├── DELIVERABLES/ (progess)
+│
 ├── final_data/
 │   ├── netflix_final.csv          # Filtered baseline dataset
 │   ├── Train_Data.csv             # Training data split (80%)
