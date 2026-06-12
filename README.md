@@ -42,7 +42,7 @@ netflix-recommendation-system/
 Clone the repository and navigate into the project workspace directory:
 
 ```bash
-git clone [GITHUB](https://github.com/MTHC582/Recommendation_System_For_Personalized_Content)
+git clone https://github.com/MTHC582/Recommendation_System_For_Personalized_Content
 cd Recommendation_System_For_Personalized_Content
 ```
 
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 
 1. Download the raw dataset files directly from the [Kaggle Netflix Prize Data Repository](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data).
 2. Create a directory named `data/` at the root level of the project workspace.
-3. Extract and place the `combined_data_2.txt` and `movie_titles.csv` files inside the newly created `data/` directory.
+3. Extract and place the `combined_data_2.txt` and `movie_titles.csv` files inside the newly created `data/` directory. (free to use any of the txt files)
 
 ### 3. Pipeline Execution
 
